@@ -8,7 +8,7 @@ This project analyzes sales data using SQL for exploratory analysis and Power BI
 
 The SQL database db_dump_version_2 is available for download. You can import it to replicate the analysis:
 
-**SQL Database Dump**: [Download db_dump_version_2.sql](https://github.com/yourusername/your-repo-name/blob/main/db_dump_version_2.sql)
+**SQL Database Dump**: [Download db_dump_version_2.sql](https://github.com/Thiruvariyamuthu/Sales-Insights/blob/main/db_dump_version_2.sql)
 
 ---
 
@@ -33,7 +33,7 @@ The SQL queries explore key sales data insights, such as total revenue, transact
 2. Show total revenue in 2020
 3. Show transactions in Chennai market
 
-**Full SQL Script**: [SQL_Analysis.sql](./SQL_Exploratory_Analysis/analysis.sql)
+**Full SQL Script**: [SQL_Analysis.sql](https://github.com/Thiruvariyamuthu/Sales-Insights/blob/main/SQL%20Queries.md)
 
 ---
 
@@ -46,21 +46,21 @@ Three dashboards were created to visualize sales data:
     - Top Customers & Products
     - Revenue Trends
 
-    ![Revenue Analysis](./PowerBI_Dashboards/Revenue_Analysis.png)
+    ![Revenue Analysis](https://github.com/Thiruvariyamuthu/Sales-Insights/blob/main/Revenue%20Analysis.png)
 
 2. **Profit Analysis**:
     - Profit Contribution by Market
     - Revenue Trends & Profitability
 
-    ![Profit Analysis](./PowerBI_Dashboards/Profit_Analysis.png)
+    ![Profit Analysis](https://github.com/Thiruvariyamuthu/Sales-Insights/blob/main/Profit%20Analysis.png)
 
 3. **Performance Analysis**:
     - Last Year vs This Year Revenue
     - Revenue by Customer Type
 
-    ![Performance Analysis](./PowerBI_Dashboards/Performance_Analysis.png)
+    ![Performance Analysis](https://github.com/Thiruvariyamuthu/Sales-Insights/blob/main/Performance%20Analysis.png)
 
-**Power BI Dashboard File**: [Download .pbix](./PowerBI_Dashboards/Dashboard.pbix)
+**Power BI Dashboard File**: [Download .pbix](https://github.com/Thiruvariyamuthu/Sales-Insights/blob/main/SalesInsights.pbix)
 
 ---
 
