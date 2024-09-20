@@ -18,7 +18,7 @@ The SQL database db_dump_version_2 is available for download. You can import it 
 
 **Task**: I was tasked with performing data analysis using SQL and Power BI to track revenue growth, identify year-over-year (YoY) trends, and analyze region-wise sales performance.
 
-**Action**: I built SQL queries to extract and clean the necessary data, followed by developing interactive Power BI dashboards. These visualizations highlighted key metrics such as revenue by region, top-performing products, and customer insights.
+**Action**: I used Power Query to clean and prepare the dataset, followed by writing SQL queries to explore and extract key insights. Then, I developed interactive Power BI dashboards to visualize important metrics such as revenue by region, top-performing products, and customer demographics
 
 **Result**: The dashboard facilitated quick, data-driven decision-making by the company’s leadership, revealing sales trends and identifying areas for potential growth. As a result, it is projected to raise revenue by at least 7% in the next quarter.
 
